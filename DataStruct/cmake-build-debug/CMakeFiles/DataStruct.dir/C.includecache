@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Code/C_DataStruct/DataStruct/LinkList.h
+malloc.h
+E:/Code/C_DataStruct/DataStruct/malloc.h
+stdio.h
+E:/Code/C_DataStruct/DataStruct/stdio.h
+
+E:/Code/C_DataStruct/DataStruct/LinkList_Test.c
+stdio.h
+-
+LinkList.h
+E:/Code/C_DataStruct/DataStruct/LinkList.h
+
